@@ -15,7 +15,7 @@ MySQL & Excel
 ## EDA
 * aggregated number of three types of behavior for calculation of conversion rate of each step
 * identified the behavioral pattern during different time slots of the day 
-* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of viewed VS liked)
+* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')
 * purchase cohort customer analysis (cohort average active days, average re-purchase time)
 * 'like' behavior pattern of high-purchase customers VS low-purchase customers
 * conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition
