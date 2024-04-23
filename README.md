@@ -18,4 +18,4 @@ MySQL & Excel
 * explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of viewed VS liked)
 * purchase cohort customer analysis (cohort average active days, average re-purchase time)
 * 'like' behavior pattern of high-purchase customers VS low-purchase customers
-* RFM analysis of customers (recency, frequency, monetary value)
+* conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition
