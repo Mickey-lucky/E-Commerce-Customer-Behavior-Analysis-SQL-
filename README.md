@@ -8,7 +8,13 @@ MySQL Workbench & Excel & SQL
 
 
 ## Data Wrangling
-* deleted duplicated records
+* check and delete duplicated records (using window function row_number)
+  - disable MySql safe mode: set SQL_SAFE_UPDATES = 0
+  - add primary key column: id
+
+   ![check duplicates](https://github.com/user-attachments/assets/9dfc99c2-ed93-4c33-a21c-233ee8bacb50)<br>
+   ![delete duplicates](https://github.com/user-attachments/assets/9af07a2f-123e-4f7b-b571-c1c2c2a28943)
+  
 * Unix timestamp conversion and extract date&hour 
 * 4 behavior types (pageview, favorite, cart, buy) in one column organized into 3 types in the respective column: awareness(pageview), like(favourite&cart), purchase(buy) 
 
