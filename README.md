@@ -24,10 +24,15 @@ MySQL Workbench & Excel & SQL
   
 * 4 behavior types (pageview, favorite, cart, buy) organized into 3 columns: awareness(pageview), like(favourite&cart), purchase(buy) 
    - create view for organized new table<br>
-   ![create view](https://github.com/user-attachments/assets/51f577b5-08e7-43ca-af20-1c22c52672de)<br>
+   ![create view](https://github.com/user-attachments/assets/51f577b5-08e7-43ca-af20-1c22c52672de)<br><br><br>
 
 ## EDA
 * aggregated number of three types of behavior for calculation of conversion rate of each step
+   ![aggregatedtypes of behavior](https://github.com/user-attachments/assets/0eb4a127-13a5-4b31-a858-93ad7692139d)<br>
+
+   ![marketing funnel](https://github.com/user-attachments/assets/5f9b1139-e953-4ac7-8af0-f264d0ce85c1)<br>
+
+
 * identified the behavioral pattern during different time slots of the day 
 * explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')
 * purchase cohort customer analysis (cohort average active days, average re-purchase time)
