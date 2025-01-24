@@ -13,10 +13,18 @@ MySQL Workbench & Excel & SQL
   - add primary key column: id
 
    ![check duplicates](https://github.com/user-attachments/assets/9dfc99c2-ed93-4c33-a21c-233ee8bacb50)<br>
-   ![delete duplicates](https://github.com/user-attachments/assets/9af07a2f-123e-4f7b-b571-c1c2c2a28943)
+   ![delete duplicates](https://github.com/user-attachments/assets/9af07a2f-123e-4f7b-b571-c1c2c2a28943)<br>
+   - check if there is missing value<br>
+   ![delete missing value](https://github.com/user-attachments/assets/08c1deb4-8007-492a-800c-96b96151362b)<br>
   
-* Unix timestamp conversion and extract date&hour 
-* 4 behavior types (pageview, favorite, cart, buy) in one column organized into 3 types in the respective column: awareness(pageview), like(favourite&cart), purchase(buy) 
+* Unix timestamp conversion and extract date&hour
+   - add new columns: dates, datetime and hour
+   ![timestamp conversion](https://github.com/user-attachments/assets/d4ca87e4-1311-46ef-8d63-fb474383ff8d)<br>
+    
+  
+* 4 behavior types (pageview, favorite, cart, buy) organized into 3 columns: awareness(pageview), like(favourite&cart), purchase(buy) 
+   - create view for organized new table<br>
+   ![create view](https://github.com/user-attachments/assets/51f577b5-08e7-43ca-af20-1c22c52672de)<br>
 
 ## EDA
 * aggregated number of three types of behavior for calculation of conversion rate of each step
