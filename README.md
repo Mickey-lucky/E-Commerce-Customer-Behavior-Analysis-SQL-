@@ -32,6 +32,9 @@ MySQL Workbench & Excel & SQL
 
    ![marketing funnel](https://github.com/user-attachments/assets/5f9b1139-e953-4ac7-8af0-f264d0ce85c1)<br>
 
+* awareness to interest conversion rate analysis<br>
+  - conditional formatting to highlight conversion rate that are above average
+   ![a-i conversion](https://github.com/user-attachments/assets/dc74e9bc-6067-4ec5-ac83-07284817de77)<br>
 
 * identified the behavioral pattern during different time slots of the day 
 * explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')
