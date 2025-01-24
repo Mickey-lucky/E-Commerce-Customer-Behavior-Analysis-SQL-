@@ -31,13 +31,17 @@ MySQL Workbench & Excel & SQL
    ![aggregatedtypes of behavior](https://github.com/user-attachments/assets/0eb4a127-13a5-4b31-a858-93ad7692139d)<br>
 
    ![marketing funnel](https://github.com/user-attachments/assets/5f9b1139-e953-4ac7-8af0-f264d0ce85c1)<br>
+   - insights: conversion rate from awareness to interest is relatively low as compared against the other two 
 
 * awareness to interest conversion rate analysis<br>
   - conditional formatting to highlight conversion rate that are above average
    ![a-i conversion](https://github.com/user-attachments/assets/dc74e9bc-6067-4ec5-ac83-07284817de77)<br>
+  
+
+* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')<br>
+
 
 * identified the behavioral pattern during different time slots of the day 
-* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')
 * purchase cohort customer analysis (cohort average active days, average re-purchase time)
 * 'like' behavior pattern of high-purchase customers VS low-purchase customers
 * conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition
