@@ -1,4 +1,4 @@
-# E-Commerce Startup Customer Behavior Analysis
+# E-Commerce Startup Customer Behavior Analysis (SQL)
 
 ## Introduction 
 The project requirement comes from the User Operations Department of an E-commerce company. Compared to acquiring new customers, maintaining and operating existing ones costs less and may yield higher conversion rates.They are looking for data analysts to mine user APP behavior data, form data-driven conclusions, and then provide a set of strategy recommendations that can enhance operational efficiency and empower business growth.The project utilized marketing funnel analysis methodology to analyze e-commerce retail customer behavior data. It aims to explore the conversion rate of each behavior step and uncover the intricacy behind it to provide insight for marketing strategy optimization. 
