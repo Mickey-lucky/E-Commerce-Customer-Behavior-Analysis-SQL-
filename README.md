@@ -29,16 +29,19 @@ MySQL Workbench & Excel & SQL
 ## EDA
 * aggregated number of three types of behavior for calculation of conversion rate of each step
    ![aggregatedtypes of behavior](https://github.com/user-attachments/assets/0eb4a127-13a5-4b31-a858-93ad7692139d)<br>
-
+* marketing funnel conversion rate as a whole <br>
    ![marketing funnel](https://github.com/user-attachments/assets/5f9b1139-e953-4ac7-8af0-f264d0ce85c1)<br>
    - insights: conversion rate from awareness to interest is relatively low as compared against the other two 
 
-* awareness to interest conversion rate analysis<br>
+* awareness to interest conversion rate by hour<br>
   - conditional formatting to highlight conversion rate that are above average
    ![a-i conversion](https://github.com/user-attachments/assets/dc74e9bc-6067-4ec5-ac83-07284817de77)<br>
   
 
-* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')<br>
+* explored the possible reasons underlying the low conversion rate from awareness to like (item numbers of 'pageview' VS 'liked')
+* Insights: only 66 items overlap between the two metrics, indicating the displayed merchandize may not be well received or aligned with user preference<br>
+  ![pageview & like](https://github.com/user-attachments/assets/27f9a8e6-c1fc-4556-b8db-3a54de1149ce)<br>
+  ![pageview & like](https://github.com/user-attachments/assets/8ad9e18e-bfb7-44cc-a743-21ec60235187)<br>
 
 
 * identified the behavioral pattern during different time slots of the day 
