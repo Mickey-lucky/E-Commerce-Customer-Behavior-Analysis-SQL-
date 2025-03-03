@@ -33,7 +33,7 @@ MySQL Workbench & Excel & SQL
    ![marketing funnel](https://github.com/user-attachments/assets/5f9b1139-e953-4ac7-8af0-f264d0ce85c1)<br>
    - insights: conversion rate from awareness to interest is relatively low as compared against the other two 
 
-* awareness to interest conversion rate by hour<br>
+* awareness to interest conversion rate during different time slots of the day<br>
   - conditional formatting to highlight conversion rate that are above average
    ![a-i conversion](https://github.com/user-attachments/assets/dc74e9bc-6067-4ec5-ac83-07284817de77)<br>
   
@@ -43,8 +43,13 @@ MySQL Workbench & Excel & SQL
   ![pageview & like](https://github.com/user-attachments/assets/27f9a8e6-c1fc-4556-b8db-3a54de1149ce)<br>
   ![pageview & like](https://github.com/user-attachments/assets/8ad9e18e-bfb7-44cc-a743-21ec60235187)<br>
 
+ 
+* purchase cohort customer analysis -- due to limited time record, this datasets may not be suited for cohort analysis<br>
 
-* identified the behavioral pattern during different time slots of the day 
-* purchase cohort customer analysis (cohort average active days, average re-purchase time)
-* 'like' behavior pattern of high-purchase customers VS low-purchase customers
+* 'like'- "buy" behavior pattern of high-purchase customers VS low-purchase customers
+* Insights: the two groups customers have similiar like- purchase conversion rate, but low purchase customer have significantly higher pageview and like behavior by average
+  ![high & low purchase](https://github.com/user-attachments/assets/aa7300a8-8421-4a7b-9e09-43e9664672d6)<br>
+  ![high & low purchase](https://github.com/user-attachments/assets/3786d85e-d3b0-4e33-8d20-6115cc231a66)<br>
+  ![high & low purchase](https://github.com/user-attachments/assets/18a78b95-cafd-49b9-a994-024459ce6ec5)<br>
+  
 * conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition
