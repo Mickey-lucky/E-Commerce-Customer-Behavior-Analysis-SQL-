@@ -52,7 +52,7 @@ MySQL Workbench & Excel & SQL
   ![high & low purchase](https://github.com/user-attachments/assets/3786d85e-d3b0-4e33-8d20-6115cc231a66)<br>
   ![high & low purchase](https://github.com/user-attachments/assets/18a78b95-cafd-49b9-a994-024459ce6ec5)<br>
   
-* conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition
+* conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition<br>
   ![RFM](https://github.com/user-attachments/assets/a1eb94e8-9765-484a-807d-370adef8cd12)<br>
   ![RFM](https://github.com/user-attachments/assets/dc39b6e1-d43d-4512-91b0-d1c6ce762be5)<br>
   ![RFM](https://github.com/user-attachments/assets/f5d56f25-ec01-4257-8dec-58f920ac6373)<br>
