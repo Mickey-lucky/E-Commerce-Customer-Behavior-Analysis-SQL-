@@ -48,12 +48,12 @@ MySQL Workbench & Excel & SQL
 
 * 'like'- "buy" behavior pattern of high-purchase customers VS low-purchase customers
 * Insights: the two groups customers have similiar like- purchase conversion rate, but low purchase customer have significantly higher pageview and like behavior by average
-  ![high & low purchase](https://github.com/user-attachments/assets/aa7300a8-8421-4a7b-9e09-43e9664672d6)<br>
-  ![high & low purchase](https://github.com/user-attachments/assets/3786d85e-d3b0-4e33-8d20-6115cc231a66)<br>
-  ![high & low purchase](https://github.com/user-attachments/assets/18a78b95-cafd-49b9-a994-024459ce6ec5)<br>
+  ![high & low purchase](https://github.com/user-attachments/assets/aa7300a8-8421-4a7b-9e09-43e9664672d6)<br><br>
+  ![high & low purchase](https://github.com/user-attachments/assets/3786d85e-d3b0-4e33-8d20-6115cc231a66)<br><br>
+  ![high & low purchase](https://github.com/user-attachments/assets/18a78b95-cafd-49b9-a994-024459ce6ec5)<br><br>
   
 * conducted RFM analysis of customers (recency, frequency, monetary value) and visualization for continuous monitoring of customer composition<br>
-  ![RFM](https://github.com/user-attachments/assets/a1eb94e8-9765-484a-807d-370adef8cd12)<br>
-  ![RFM](https://github.com/user-attachments/assets/dc39b6e1-d43d-4512-91b0-d1c6ce762be5)<br>
-  ![RFM](https://github.com/user-attachments/assets/f5d56f25-ec01-4257-8dec-58f920ac6373)<br>
-  ![RFM](https://github.com/user-attachments/assets/827be5cd-85a7-4297-8d41-8e2c817b74c8)<br>
+  ![RFM](https://github.com/user-attachments/assets/a1eb94e8-9765-484a-807d-370adef8cd12)<br><br>
+  ![RFM](https://github.com/user-attachments/assets/dc39b6e1-d43d-4512-91b0-d1c6ce762be5)<br><br>
+  ![RFM](https://github.com/user-attachments/assets/f5d56f25-ec01-4257-8dec-58f920ac6373)<br><br>
+  ![RFM](https://github.com/user-attachments/assets/827be5cd-85a7-4297-8d41-8e2c817b74c8)<br><br>
